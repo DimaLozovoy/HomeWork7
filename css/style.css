@@ -1,0 +1,9 @@
+:root {
+    --accent-color: #ff0000;
+}
+[https] {
+    color: var(--accent-color);
+}
+ul + p {
+    font-size: 24px;
+}
