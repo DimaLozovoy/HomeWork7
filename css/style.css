@@ -1,7 +1,7 @@
 :root {
     --accent-color: #ff0000;
 }
-[https] {
+a[href*="http"] {
     color: var(--accent-color);
 }
 ul + p {
